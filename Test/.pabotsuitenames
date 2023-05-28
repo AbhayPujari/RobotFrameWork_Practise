@@ -1,0 +1,7 @@
+datasources:cf5af95c89c6c23bd46f9780027b6c17d510b7e7
+commandlineoptions:65f95c924ba97541f47949701c4e3c51192a5b43
+suitesfrom:no-suites-from-option
+file:080228ba2f761d89775a362f5168b0705bca3efe
+--test testDemo6.Validate Unsuccesful Login
+--test testDemo6.Validate Card display in the shopping page
+--test testDemo6.Select the Form and Login as User

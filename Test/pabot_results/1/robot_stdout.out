@@ -1,0 +1,14 @@
+==============================================================================
+testDemo6 :: To Validate Login form                                           
+==============================================================================
+Validate Card display in the shopping page                            | FAIL |
+Setup failed:
+WebDriverException: Message: unknown error: Chrome failed to start: was killed.
+  (unknown error: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Users\AbhayPujari\PycharmProjects\RFDemo\Test\Resource\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+------------------------------------------------------------------------------
+testDemo6 :: To Validate Login form                                   | FAIL |
+1 critical test, 0 passed, 1 failed
+1 test total, 0 passed, 1 failed
+==============================================================================
+Output:  C:\Users\AbhayPujari\PycharmProjects\RFDemo\Test\pabot_results\1\output.xml
